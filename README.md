@@ -2,9 +2,9 @@
 
 # Jaishish Ranjan
 
-**Senior Backend Engineer · 7+ years · Java · Spring Boot · Microservices**
+**Senior Backend Engineer · 7+ years · Java · Spring Boot · Microservices · AWS · Kafka**
 
-*Building scalable healthcare systems · Currently at McKesson (USA) via Tekizma · BITS Pilani MTech*
+*Building scalable Financial systems · Currently at SymphonyAI · BITS Pilani MTech*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaishishranjan01-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/jaishishranjan01)
 [![Email](https://img.shields.io/badge/Email-Jaishish.ranjan01%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:Jaishish.ranjan01@gmail.com)
