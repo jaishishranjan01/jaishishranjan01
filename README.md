@@ -2,7 +2,7 @@
 
 # Jaishish Ranjan
 
-**Senior Backend Engineer · 6.5+ years · Java · Spring Boot · Microservices**
+**Senior Backend Engineer · 7+ years · Java · Spring Boot · Microservices**
 
 *Building scalable healthcare systems · Currently at McKesson (USA) via Tekizma · BITS Pilani MTech*
 
@@ -21,8 +21,8 @@ Senior Backend Developer with **6.5+ years** designing scalable microservices, b
 
 Currently working on **healthcare systems for McKesson Corporation (USA)** — integrating FHIR standards, building secure APIs with JWT/OAuth2/Okta, and optimizing data pipelines at enterprise scale.
 
-- 🏥 Domain expertise: **Healthcare tech (FHIR, Care Plans, Appointments)**
-- ⚙️ Core stack: **Java 21 · Spring Boot · Kafka · Kubernetes · AWS**
+- 🏥 Domain expertise: **Healthcare tech (FHIR, Care Plans, Appointments),Finacial tech (Fraud detection and money laundering, Tax, and Insurance)**
+- ⚙️ Core stack: **Java 21 · Spring Boot · Spring MVC · Spring Architecture · Kafka · Kubernetes · AWS**
 - 🎓 Pursuing **MTech in Software Engineering** @ BITS Pilani (CGPA 8.0/10)
 - 🌍 Based in **Bengaluru, India** · Open to backend/full-stack roles in **Europe**
 - 🔭 Currently exploring: Open source contributions in the Java/Spring ecosystem
@@ -82,7 +82,8 @@ Currently working on **healthcare systems for McKesson Corporation (USA)** — i
 ## Experience Timeline
 
 ```
-2022 – Present   Tekizma Inc. (McKesson Corp, USA)   Project Engineer III
+2026 – Now       SymphonyAI                          Lead Software Engineer
+2022 – 2026      Tekizma Inc. (McKesson Corp, USA)   Project Engineer III
 2021 – 2022      Sapiens International               Developer
 2018 – 2021      Infosys Ltd                         Senior Systems Engineer
 ```
@@ -103,7 +104,7 @@ Currently working on **healthcare systems for McKesson Corporation (USA)** — i
 
 ## What I'm Looking For
 
-I'm actively exploring **backend / full-stack engineering roles in Europe** (UK, Germany, Netherlands, Ireland).
+I'm actively exploring **backend / full-stack engineering roles in Europe** (UK, Germany, Netherlands, Ireland, Poland).
 
 If you're a maintainer of a Java/Spring Boot open source project and need help — let's connect. I'm keen to contribute.
 
